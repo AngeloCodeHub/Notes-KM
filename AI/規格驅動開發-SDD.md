@@ -29,13 +29,17 @@
 - [黃鈞彥 - ▋ The New Code​：新程式碼時代的來臨 - Sean Grove, OpenAI​](https://www.facebook.com/LukaHuang/posts/pfbid0SZes5VkUg34RjHxA7nSVN39Hj84JwiPnrEkoZMMFA7E5cbjSMe91RYGzeyVcS42hl)
 - [Day 17 - 實務上好用的方法，SDD - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10391813)
 
+## Open Spec
+
+- [OpenSpec — A lightweight spec‑driven framework](https://openspec.dev/)
+
 ## GitHub Spec-Kit
 
+- [github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development](https://github.com/github/spec-kit)
 - [Spec Kit實作記錄 - HackMD](https://hackmd.io/@shaoeChen/rJ0wY4OCxe)
 - [Spec-driven development with AI: Get started with a new open source toolkit - The GitHub Blog](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
 - [Diving Into Spec-Driven Development With GitHub Spec Kit - Microsoft for Developers](https://developer.microsoft.com/blog/spec-driven-development-spec-kit)
 - [張文鈿 - 分享一些關於 Spec-Driven Development (SDD) 的看法和內容 | Facebook](https://www.facebook.com/562573970/posts/10163234557593971)
-- [github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development](https://github.com/github/spec-kit)
 - [Spec Kit：讓「規格驅動開發」從 Vibe Coding 走向結構化流程 | 網路資源 | DeTools 工具死神](https://tools.wingzero.tw/article/sn/3599)
 - [第 23 天：意念修煉 - Spec-Kit 規格驅動開發 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10394078)
 - [SDD 規格驅動開發 - RiCosNote - Medium](https://medium.com/ricos-note/sdd-%E8%A6%8F%E6%A0%BC%E9%A9%85%E5%8B%95%E9%96%8B%E7%99%BC-4caca9bf9075)

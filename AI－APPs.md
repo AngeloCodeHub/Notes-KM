@@ -9,6 +9,8 @@
 - Claude APP
 - Bing Copilot
 - Perplexity
+- [Qwen](https://qwen.ai)
+- [DeepSeek - Into the Unknown](https://chat.deepseek.com/)
 
 ## Coding（CLI、IDE）
 
@@ -19,8 +21,11 @@
 - OpenAI Codex（VSCode Ext｜Codex CLI）
 - Claude Code
 - Cursor
+- WARP
+- [OpenCode | The open source AI coding agent](https://opencode.ai/)
+- [Aider - AI Pair Programming in Your Terminal](https://aider.chat/)
 
-## Web APP
+## Web APP Builder
 
 - GitHub Spark
 - Google AI Studio
