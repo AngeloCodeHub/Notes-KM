@@ -22,6 +22,7 @@
 - Claude Code
 - Cursor
 - WARP
+- [Cline - AI Coding, Open Source and Uncompromised](https://cline.bot/)
 - [OpenCode | The open source AI coding agent](https://opencode.ai/)
 - [Aider - AI Pair Programming in Your Terminal](https://aider.chat/)
 
