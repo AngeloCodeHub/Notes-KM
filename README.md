@@ -2,6 +2,7 @@
 
 ## 範疇
 
+- AI－LLM｜Agent｜AI-Coding
 - 知識管理
 - 時間管理
 - YAML、Json、XML
