@@ -6,7 +6,7 @@
 - 開發方法論｜軟工實踐
 - 知識管理
 - 時間管理
-- YAML、Json、XML
+- 資料交換格式－YAML、Json、XML
 - Markdown編輯知識｜Markdown筆記術
 - Markdown 文檔語法（附帶HTML、CSS）
 - 文件系統（blog、wiki、gitbook）
