@@ -22,6 +22,7 @@
 - [Prism（程式語言代碼）](https://prismjs.com/#supported-languages)
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 - [Markdown 到底在紅什麼？ - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10235469)
+- [Chat－資料夾結構的表示法](https://www.perplexity.ai/search/wo-yao-zai-markdownbiao-shi-zi-nCc0jbiyRmKBwaXfWZojHQ)
 
 ## Mermaid｜畫布
 
